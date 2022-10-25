@@ -1,5 +1,6 @@
 import './App.css';
 import Calendar from "./components/Calendar"
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
